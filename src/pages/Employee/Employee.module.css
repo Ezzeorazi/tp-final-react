@@ -1,0 +1,72 @@
+.employee {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.employee h1 {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.card {
+  background-color: var(--secondary-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+  transition: transform 0.2s;
+}
+
+.card strong {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+
+
+.error {
+  font-size: 18px;
+  color: red;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.deleteButton {
+  background-color: #ff4d4d;
+  color: #fff;
+}
+
+.deleteButton:hover {
+  background-color: #ff1a1a;
+}
+
+.deleteButton, .backButton, .editButton {
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.backButton, .editButton {
+  background-color: #2A363B;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.backButton:hover, .editButton:hover {
+  background-color: #6a7d6a;
+  color: black;
+  transition: 0.5s;
+}

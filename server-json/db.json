@@ -1,0 +1,92 @@
+{
+  "employees": [
+    {
+      "name": "Michael Scott",
+      "email": "michael.scott@dundermifflin.com",
+      "phone": "123-456-7890",
+      "address": "Scranton, PA",
+      "position": "Regional Manager",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Dwight Schrute",
+      "email": "dwight.schrute@dundermifflin.com",
+      "phone": "123-456-7891",
+      "address": "Schrute Farms, Scranton, PA",
+      "position": "Assistant to the Regional Manager"
+    },
+    {
+      "id": "3",
+      "name": "Jim Halpert",
+      "email": "jim.halpert@dundermifflin.com",
+      "phone": "123-456-7892",
+      "address": "Scranton, PA",
+      "position": "Salesman"
+    },
+    {
+      "id": "4",
+      "name": "Pam Beesly",
+      "email": "pam.beesly@dundermifflin.com",
+      "phone": "123-456-7893",
+      "address": "Scranton, PA",
+      "position": "Receptionist"
+    },
+    {
+      "id": "5",
+      "name": "Ryan Howard",
+      "email": "ryan.howard@dundermifflin.com",
+      "phone": "123-456-7894",
+      "address": "New York, NY",
+      "position": "Temp"
+    },
+    {
+      "id": "6",
+      "name": "Andy Bernard",
+      "email": "andy.bernard@dundermifflin.com",
+      "phone": "123-456-7895",
+      "address": "Scranton, PA",
+      "position": "Salesman"
+    },
+    {
+      "id": "7",
+      "name": "Stanley Hudson",
+      "email": "stanley.hudson@dundermifflin.com",
+      "phone": "123-456-7896",
+      "address": "Scranton, PA",
+      "position": "Salesman"
+    },
+    {
+      "id": "8",
+      "name": "Phyllis Vance",
+      "email": "phyllis.vance@dundermifflin.com",
+      "phone": "123-456-7897",
+      "address": "Scranton, PA",
+      "position": "Saleswoman"
+    },
+    {
+      "id": "9",
+      "name": "Kelly Kapoor",
+      "email": "kelly.kapoor@dundermifflin.com",
+      "phone": "123-456-7898",
+      "address": "Scranton, PA",
+      "position": "Customer Service Representative"
+    },
+    {
+      "id": "10",
+      "name": "Toby Flenderson",
+      "email": "toby.flenderson@dundermifflin.com",
+      "phone": "123-456-7899",
+      "address": "Scranton, PA",
+      "position": "HR Representative"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@user.com",
+      "password": "admin"
+    }
+    
+  ]
+}

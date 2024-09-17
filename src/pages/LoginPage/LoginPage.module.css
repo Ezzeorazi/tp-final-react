@@ -1,0 +1,66 @@
+.loginPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap:10px;
+    font-size: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+    background-color: #99B898;
+    box-shadow: 1 1 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+input {
+    border-radius: 3px;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.boton {
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #2A363B;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background-color: #6a7d6a;
+    color: #2A363B;
+    transition: 0.5s;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.error {
+    background-color: red;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    border-radius: 5px;
+
+}
