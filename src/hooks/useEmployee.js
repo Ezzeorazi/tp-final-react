@@ -38,7 +38,7 @@ const useEmployee = () => {
   }, [id]);
 
   const handleDelete = async () => {
-    if (window.confirm("Are you sure you want to delete this employee?")) {
+    if (window.confirm("Esta seguro de eliminar este empleado?")) {
       try {
         const response = await fetch(`http://localhost:3000/employees/${id}`, {
           method: "DELETE"
