@@ -49,6 +49,7 @@ Tambien se puede crear un usuario. :D
 
 ## Saludos
 
-Espero cumplir con las espectativas, no llegue a incluir el context Api.
+Espero cumplir con las espectativas, no llegue a incluir el context Api y me centre en la funcionalidad aunque le puse funcionalidades responsive como el navbar con menu desplegable en la version mobile...
+
 Muchas gracias a todos por al oportunidad y todo lo que aprendi en estas 6 semanas me sirvieron un monton para mi carrera.
 
