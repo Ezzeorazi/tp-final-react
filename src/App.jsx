@@ -1,10 +1,13 @@
 import AppRouter from "./routers/AppRouter";
-import './styles/global.css';
-import './styles/variables.css';
+import { Provider } from "react-redux";
+import "./styles/global.css";
+import "./styles/variables.css";
 
 function App() {
   return (
-    <AppRouter />
+    <Provider store={store}>
+      <AppRouter />
+    </Provider>
   );
 }
 

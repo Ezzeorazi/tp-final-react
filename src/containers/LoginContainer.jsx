@@ -4,8 +4,10 @@ import LoginForm from "../components/LoginForm/LoginForm";
 import { useAuth } from "../hooks";
 import { useNavigate } from "react-router-dom";
 import styles from "../components/LoginForm/LoginForm.module.css";
+import { useDispatch } from "react-redux";
 
 const LoginContainer = () => {
+  const dispatch = useDispatch();
   const navigate = useNavigate();
   const { values, handleChange, handleSubmit } = useForm({
     email: "",

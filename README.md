@@ -49,7 +49,9 @@ Tambien se puede crear un usuario. :D
 
 ## Saludos
 
-Espero cumplir con las espectativas, no llegue a incluir el context Api y me centre en la funcionalidad aunque le puse funcionalidades responsive como el navbar con menu desplegable en la version mobile...
+Espero cumplir con las espectativas, no llegue a incluir el context Api y me centre en la funcionalidad la app es responsive y  el navbar tiene un menu desplegable en la version mobile.
+
+Con respecto al context puse un email para ingresar y el user al registrarse contiene un nombre pero no logre capturar el nombre para reutilizarlo en la web 
 
 Muchas gracias a todos por al oportunidad y todo lo que aprendi en estas 6 semanas me sirvieron un monton para mi carrera.
-
+Cuando me den el feedback voy a intentar vincularla con mongodb asi me queda en el portafolio.. Saludos..
